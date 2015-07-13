@@ -1,0 +1,6 @@
+name: SkinChanger
+version: 1.0
+main: mexsource.skinchanger.SkinChanger
+commands:
+  changeskin:
+    usage: /ChangeSkin (File name)
